@@ -1,7 +1,7 @@
 
 
-def hello_user(username):
-    print(f"hello, {username}")
+def hello_user(name):
+    print(f"hello, {name}")
 
 
 
